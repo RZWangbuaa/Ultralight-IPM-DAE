@@ -1,2 +1,3 @@
 # Ultralight IPM-DAE
-The code will be released after the paper submission is completed.
+An Ultra-Lightweight Parallel Mamba-Based Autoencoder with Multi-Scale Fusion for ECG Denoising
+
