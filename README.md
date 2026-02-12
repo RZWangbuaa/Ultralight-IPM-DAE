@@ -22,3 +22,10 @@ Electrocardiogram (ECG) is an important tool for diagnosing cardiovascular disea
 
 ### Dataset Preparation
 
+Download [QTDB](https://physionet.org/content/qtdb/1.0.0/) and [NSTDB](https://physionet.org/content/nstdb/1.0.0/) datasets and structure the files as follows:
+<pre>
+/datasets/qt-database-1.0.0
+/datasets/mit-bih-noise-stress-test-database-1.0.0
+</pre>
+
+
