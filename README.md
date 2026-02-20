@@ -42,7 +42,7 @@ Train Ultralight IPM-DAE based on default settings:
 python -m main --use_model='Ultralight_IPM_DAE'
 </pre>
 
-Test model:
+Test model (two pre-trained versions provided: 0 and 1):
 
 <pre>
 python -m test --use_model="Ultralight_IPM_DAE" --version=0
