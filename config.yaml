@@ -1,0 +1,3 @@
+Ultralight_IPM_DAE:
+  log_dir: './results/Ultralight_IPM_DAE'
+  model: 'models.Ultralight_IPM_DAE'
